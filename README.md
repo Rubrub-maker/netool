@@ -12,7 +12,7 @@ A Python network dashboard for computer technicians, usable **in the terminal** 
 ║  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝        ║
 ║         Network Technician Tool          ║
 ╚══════════════════════════════════════════╝
-``
+```
 
 ## Features
 
